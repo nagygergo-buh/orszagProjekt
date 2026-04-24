@@ -1,7 +1,9 @@
 document.getElementById('menu').innerHTML=`
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 <div class="container-fluid">
-  <a class="navbar-brand" href="#">Logo</a>
+<a class="navbar-brand" href="https://hu.wikipedia.org/wiki/Ausztr%C3%A1lia_(orsz%C3%A1g)" target="_blank">
+  <img id="auszflagLogo" src="kepek/auszflag.jpg" alt="auszflag" style="height:30px;"></a>
+<a class="navbar-brand"   href="#">Magyar ausztrál oldal</a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
