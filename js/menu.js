@@ -11,7 +11,7 @@ document.getElementById('menu').innerHTML=`
         <a class="nav-link" href="index.html">Nyitólap</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="nevezetessegek.html">Nevezetességek</a>
+        <a class="nav-link" href="nevezetessegek.html">Állatok</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
