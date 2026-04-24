@@ -9,13 +9,22 @@
     text-align: justify;
 }
 .kartya{
-    border: 1px solid blue;
-    box-shadow: 3px 3px;
+    border: 1px solid red;
+    box-shadow: 3px 3px black;
     border-radius: 3px;
     margin: 10px;
     padding: 10px;
     height: 550px;
+    color: white;
 }
 #auszflagLogo {
     height: 50px;
-  }
+}
+body{
+    background-image: url(kepek/bg1.jpg);
+    background-size: cover;
+}
+.bgcolor{
+    background-color: black;
+    display: inline;
+}

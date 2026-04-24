@@ -5,7 +5,7 @@ for (const elem of termeszettomb) {
         <div class="kartya">
             <p class="text-center cimecske">${elem.nev}</p>
             <p class="text-center"><img class="img-fluid kep" src="kepek/${elem.kep}" alt=""></p>
-            <p class="leiraszoveg">${elem.leiras}</p>
+            <p class="leiraszoveg"><span class="bgcolor">${elem.leiras}</span></p>
         </div>
     </div>
     `
