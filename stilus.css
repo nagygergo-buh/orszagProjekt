@@ -9,13 +9,13 @@
     text-align: justify;
 }
 .kartya{
-    border: 1px solid red;
+    border: 1px solid navy;
     box-shadow: 3px 3px black;
     border-radius: 3px;
     margin: 10px;
     padding: 10px;
     height: 550px;
-    color: brown;
+    color: navy;
 }
 #auszflagLogo {
     height: 50px;
@@ -25,8 +25,7 @@ body{
     background-size: cover;
 }
 .bgcolor{
-    background-color: black;
-    display: inline;
+   color:navy;
 }
 .container-flex {
     display: flex;
@@ -41,3 +40,6 @@ body{
   #terkep {
     height: 300px;
   }
+.szinsz{
+    color: navy;
+}
