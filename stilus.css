@@ -15,7 +15,7 @@
     margin: 10px;
     padding: 10px;
     height: 550px;
-    color: white;
+    color: brown;
 }
 #auszflagLogo {
     height: 50px;
@@ -28,3 +28,16 @@ body{
     background-color: black;
     display: inline;
 }
+.container-flex {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  
+  .text {
+    flex: 1;
+  }
+  
+  #terkep {
+    height: 300px;
+  }
