@@ -16,7 +16,7 @@ document.getElementById('menu').innerHTML=`
         <a class="nav-link" href="nevezetessegek.html">Állatok</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="latnivalo.html">Látnivalók</a>
       </li>
     </ul>
   </div>

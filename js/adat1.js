@@ -1,17 +1,23 @@
-const termeszettomb=[
+const latnivaloktomb=[
     {
-        "nev":"Balaton",
-        "leiras":"A Balaton egy tó a Dunántúlon, Közép-Európa legnagyobb tava, Magyarország vízrajzának meghatározó eleme. Könnyen felmelegedő, sekély vize kiválóan alkalmassá teszi a fürdésre és sportolásra, élővilága rendkívül gazdag, a táj változatos vulkanikus kúpjaival sok tekintetben egyedi.",
-        "kep":"termeszet1.jpg"
+        "nev":"Sydney Operaház",
+        "leiras":"A Sydney-i Operaház jelenlegi épületének megépítésére 1954-ben írtak ki pályázatot. Ezen 32 országból 233-an vettek részt. A nyertes egy addig ismeretlen dán építész, Jørn Utzon lett. A terv ihletői a Sydney hatalmas jachtkikötőjében gyakran látható vitorláshajók voltak.",
+        "kep":"operakep.jpg"
     },
     {
-        "nev":"Badacsony",
-        "leiras":"A Badacsony a Tapolcai-medence legmagasabb tanúhegye, amely a Balaton északi partján magasodik Badacsonytomaj mellett. A nagyjából kör alakú hegy kerülete 11 km. Oldalát 280 méteres magasságig – szőlőtermesztésre kiválóan alkalmas – különféle laza üledékek borítják, efelett szürke bazaltsziklák és kőfolyások bukkannak elő az erdő sűrűjéből.",
-        "kep":"termeszet2.jpg"
+        "nev":"A Nagy-korallzátony ",
+        "leiras":"A Nagy-korallzátony Földünk legnagyobb korallzátonya, a Korall-tengerben található, nem messze Északkelet-Ausztrália Queensland nevű államának partjaitól. 2000 km hosszan húzódik, 34,4 millió hektáron,[4] és még az űrből is látható. ",
+        "kep":"korallkep.jpg"
     },
     {
-        "nev":"Bükk",
-        "leiras":"A Bükk-vidék (régebben csak Bükk) az Északi-középhegységben található földrajzi középtáj, Magyarország legnagyobb átlagmagasságú, barlangokban bővelkedő karszthegysége. ",
-        "kep":"termeszet3.jpg"
+        "nev":"Ayers Rock(Uluru)",
+        "leiras":"Az Ayers Rock, más néven Uluru egy óriási homokkősziklatömb Ausztrália közepén, az Északi területen.",
+        "kep":"ulurukep.jpg"
+    },
+    {
+        "nev":"Bondi Beach",
+        "leiras":"Bondi Beach Sydney ikonikus, félhold alakú homokos partszakasza, Ausztrália egyik legismertebb tengerpartja. A város keleti peremén, mindössze 7 kilométerre a központtól fekszik, és világszerte az ausztrál tengerparti élet, a szörfkultúra és a laza életmód szimbólumaként ismert.",
+        "kep":"bondikep.jpg"
     }
 ]
+

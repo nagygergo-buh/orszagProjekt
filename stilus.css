@@ -7,6 +7,7 @@
 }
 .leiraszoveg{
     text-align: justify;
+    color: green;
 }
 .kartya{
     border: 1px solid navy;
@@ -15,7 +16,7 @@
     margin: 10px;
     padding: 10px;
     height: 550px;
-    color: navy;
+    color: green;
 }
 #auszflagLogo {
     height: 50px;
@@ -24,9 +25,7 @@ body{
     background-image: url(kepek/bg1.jpg);
     background-size: cover;
 }
-.bgcolor{
-   color:navy;
-}
+
 .container-flex {
     display: flex;
     align-items: flex-start;
@@ -42,4 +41,13 @@ body{
   }
 .szinsz{
     color: navy;
+}
+#nyitocim{
+    color:  green;
+    font-weight: bold;
+    font-style: italic;
+}
+#foDiv{
+    font-size: 15px;
+    color: green;
 }
