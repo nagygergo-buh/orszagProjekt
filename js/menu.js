@@ -3,8 +3,8 @@ document.getElementById('menu').innerHTML=`
 <div class="container-fluid">
 <a class="navbar-brand" href="https://hu.wikipedia.org/wiki/Ausztr%C3%A1lia_(orsz%C3%A1g)" target="_blank">
   <img id="auszflagLogo" src="kepek/auszflag.jpg" alt="auszflag" style="height:30px;"></a>
-<a class="navbar-brand"   href="#">Ausztrália</a>
-  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+<a class="navbar-brand"   href="buh.html">Ausztrália</a>
+  <button class="navbar-toggler" type="button " data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
@@ -17,6 +17,9 @@ document.getElementById('menu').innerHTML=`
       </li>
       <li class="nav-item">
         <a class="nav-link" href="latnivalo.html">Látnivalók</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="tuzvesz.html">Tűzesetek</a>
       </li>
     </ul>
   </div>

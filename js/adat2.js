@@ -1,4 +1,4 @@
-const allattomb=[
+const allattomb = [
     {
         "nev":"Kenguru",
         "leiras":"A vörös óriáskenguru az emlősök osztályának erszényesek alosztályágába, ezen belül a diprotodontia rendjébe és a kengurufélék családjába tartozó faj.",
@@ -6,12 +6,62 @@ const allattomb=[
     },
     {
         "nev":"Koala",
-        "leiras":"A koala Ausztráliában őshonos erszényes, növényevő állat, a koalafélék családjának egyedüli élő képviselője. Az elterjedt „koalamaci” vagy „koalamedve” megnevezés biológiailag helytelen, mivel a koalák nem tartoznak a medvék családjába. A tudományos neve görögül „erszényes medvét” jelent, mivel az első telepesek helyi medvefajnak gondolták a furcsa állatot.",
+        "leiras":"A koala Ausztráliában őshonos erszényes, növényevő állat, a koalafélék családjának egyedüli élő képviselője.",
         "kep":"allat2.jpg"
     },
     {
         "nev":"Emu",
-        "leiras":"Az emu a madarak osztályának struccalakúak rendjébe, az emufélék családjába tartozó faj. Egyes rendszerbesorolások szerint a kazuárfélékhez tartozik.Ausztrália hivatalos madara, a vörös óriáskenguruval együtt az emu tartja Ausztrália címerpajzsát az ország címerében",
+        "leiras":"Az emu Ausztrália egyik legismertebb röpképtelen madara, amely a struccalakúak rendjébe tartozik.",
         "kep":"allat3.jpg"
+    },
+    {
+        "nev":"Vombat",
+        "leiras":"A vombat zömök testű erszényes emlős, amely föld alatti üregekben él Ausztráliában.",
+        "kep":"allat4.jpg"
+    },
+    {
+        "nev":"Kacsacsőrű emlős",
+        "leiras":"A kacsacsőrű emlős különleges tojásrakó emlős, amely csőrével és hódhoz hasonló farkával ismert.",
+        "kep":"allat5.jpg"
+    },
+    {
+        "nev":"Tasman ördög",
+        "leiras":"A tasmán ördög húsevő erszényes, amely főként Tasmania szigetén él.",
+        "kep":"allat6.jpg"
+    },
+    {
+        "nev":"Dingó",
+        "leiras":"A dingó vadon élő ausztrál kutyaféle, amely az ország egyik legismertebb ragadozója.",
+        "kep":"allat7.jpg"
+    },
+    {
+        "nev":"Kazuár",
+        "leiras":"A kazuár nagytestű röpképtelen madár, amely veszélyes karmairól ismert.",
+        "kep":"allat8.jpg"
+    },
+    {
+        "nev":"Echidna",
+        "leiras":"Az echidna tüskés testű tojásrakó emlős, amely hangyákkal és termeszekkel táplálkozik.",
+        "kep":"allat9.jpg"
+    },
+    {
+        "nev":"Kukaburra",
+        "leiras":"A kukaburra hangos, nevetésre emlékeztető hangjáról híres ausztrál madár.",
+        "kep":"allat10.jpg"
+    },
+    {
+        "nev":"Wallaby",
+        "leiras":"A wallaby kisebb termetű erszényes ugróállat, a kenguruk közeli rokona.",
+        "kep":"allat11.jpg"
+    },
+    {
+        "nev":"Cukormókus",
+        "leiras":"A cukormókus apró erszényes emlős, amely képes siklani a fák között.",
+        "kep":"allat12.jpg"
+    },
+    {
+        "nev":"Kéknyelvű szkink",
+        "leiras":"A kéknyelvű szkink Ausztráliában élő gyík, amely kék színű nyelvéről kapta nevét.",
+        "kep":"allat13.jpg"
     }
 ]
