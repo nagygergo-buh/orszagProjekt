@@ -21,6 +21,9 @@ document.getElementById('menu').innerHTML=`
       <li class="nav-item">
         <a class="nav-link" href="tuzvesz.html">Tűzesetek</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="arany.html">Ausztrál aranyláz</a>
+      </li>
     </ul>
   </div>
 </div>

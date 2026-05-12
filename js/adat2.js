@@ -63,5 +63,20 @@ const allattomb = [
         "nev":"Kéknyelvű szkink",
         "leiras":"A kéknyelvű szkink Ausztráliában élő gyík, amely kék színű nyelvéről kapta nevét.",
         "kep":"allat13.jpg"
+    },
+    {
+        "nev":"Sós vízi krokodil",
+        "leiras":"A sós vízi krokodil a világ legnagyobb hüllője, amely Észak-Ausztrália folyóiban és tengerparti területein él. Rendkívül erős harapásáról és veszélyes ragadozó természetéről ismert.",
+        "kep":"allat14.jpg"
+    },
+    {
+        "nev":"Nagy fehér cápa",
+        "leiras":"A nagy fehér cápa Ausztrália partvidékein is előforduló hatalmas ragadozó hal, amely kiváló vadász és az óceán egyik legismertebb cápafaja.",
+        "kep":"allat15.jpg"
+    },
+    {
+        "nev":"Belső tajpán",
+        "leiras":"A belső tajpán a világ egyik legmérgezőbb kígyója, amely Ausztrália száraz területein él.",
+        "kep":"allat16.jpg"
     }
 ]
